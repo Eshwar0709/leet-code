@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Eshwar0709/leet-code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Eshwar0709/leet-code/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eshwar0709/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
