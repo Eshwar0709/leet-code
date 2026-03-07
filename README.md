@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -43,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshwar0709/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eshwar0709/leet-code/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -60,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
