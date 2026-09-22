@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Eshwar0709/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Eshwar0709/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Eshwar0709/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Eshwar0709/leet-code/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshwar0709/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
@@ -100,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
