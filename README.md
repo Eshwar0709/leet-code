@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eshwar0709/leet-code/tree/master/0424-longest-repeating-character-replacement) |
+| [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Eshwar0709/leet-code/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
+| [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
