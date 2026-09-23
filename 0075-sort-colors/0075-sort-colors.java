@@ -8,18 +8,15 @@ class Solution {
                 nums[low]=temp;
                 low++;mid++;
             }
-            else if(nums[mid]==2){
+            else if(nums[mid]==1){
+                mid++;
+            }
+            else {
                 int temp=nums[mid];
                 nums[mid]=nums[high];
                 nums[high]=temp;
                 high--;
             }
-            else{
-                mid++;
-            }
-        }
-        for(int x:nums){
-            System.out.print(x+" ");
         }
     }
 }
