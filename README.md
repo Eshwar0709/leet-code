@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
+| [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Eshwar0709/leet-code/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
