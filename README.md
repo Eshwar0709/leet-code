@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshwar0709/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Eshwar0709/leet-code/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Eshwar0709/leet-code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Eshwar0709/leet-code/tree/master/0058-length-of-last-word) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Eshwar0709/leet-code/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Eshwar0709/leet-code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Eshwar0709/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Eshwar0709/leet-code/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
