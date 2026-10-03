@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Eshwar0709/leet-code/tree/master/0367-valid-perfect-square) |
+| [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
 ## Simulation
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Eshwar0709/leet-code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Eshwar0709/leet-code/tree/master/0374-guess-number-higher-or-lower) |
+| [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
