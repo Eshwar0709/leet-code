@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Eshwar0709/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 | [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
+| [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
