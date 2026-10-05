@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eshwar0709/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Eshwar0709/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
