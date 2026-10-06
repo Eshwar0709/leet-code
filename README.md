@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
