@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/Eshwar0709/leet-code/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
