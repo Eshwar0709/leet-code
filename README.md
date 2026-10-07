@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [3248-snake-in-matrix](https://github.com/Eshwar0709/leet-code/tree/master/3248-snake-in-matrix) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eshwar0709/leet-code/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Eshwar0709/leet-code/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Eshwar0709/leet-code/tree/master/0075-sort-colors) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
