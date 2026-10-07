@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
 | [3248-snake-in-matrix](https://github.com/Eshwar0709/leet-code/tree/master/3248-snake-in-matrix) |
 ## Array
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Eshwar0709/leet-code/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
 |  |
