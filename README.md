@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2906-construct-product-matrix](https://github.com/Eshwar0709/leet-code/tree/master/2906-construct-product-matrix) |
 | [3248-snake-in-matrix](https://github.com/Eshwar0709/leet-code/tree/master/3248-snake-in-matrix) |
 ## Sorting
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Eshwar0709/leet-code/tree/master/0238-product-of-array-except-self) |
+| [2906-construct-product-matrix](https://github.com/Eshwar0709/leet-code/tree/master/2906-construct-product-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2906-construct-product-matrix](https://github.com/Eshwar0709/leet-code/tree/master/2906-construct-product-matrix) |
 ## Trie
 |  |
 | ------- |
