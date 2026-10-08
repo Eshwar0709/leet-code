@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Eshwar0709/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Eshwar0709/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Eshwar0709/leet-code/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eshwar0709/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Eshwar0709/leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0088-merge-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Eshwar0709/leet-code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Eshwar0709/leet-code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Eshwar0709/leet-code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Eshwar0709/leet-code/tree/master/0035-search-insert-position) |
