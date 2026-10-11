@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Eshwar0709/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Eshwar0709/leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Eshwar0709/leet-code/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -364,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
