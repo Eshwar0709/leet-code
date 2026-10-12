@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
+| [1006-clumsy-factorial](https://github.com/Eshwar0709/leet-code/tree/master/1006-clumsy-factorial) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/Eshwar0709/leet-code/tree/master/1006-clumsy-factorial) |
 | [3248-snake-in-matrix](https://github.com/Eshwar0709/leet-code/tree/master/3248-snake-in-matrix) |
 ## Array
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
+| [1006-clumsy-factorial](https://github.com/Eshwar0709/leet-code/tree/master/1006-clumsy-factorial) |
 ## Divide and Conquer
 |  |
 | ------- |
