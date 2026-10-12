@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Eshwar0709/leet-code/tree/master/1006-clumsy-factorial) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Eshwar0709/leet-code/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Eshwar0709/leet-code/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2906-construct-product-matrix](https://github.com/Eshwar0709/leet-code/tree/master/2906-construct-product-matrix) |
 | [3248-snake-in-matrix](https://github.com/Eshwar0709/leet-code/tree/master/3248-snake-in-matrix) |
@@ -379,4 +381,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
