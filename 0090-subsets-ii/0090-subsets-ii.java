@@ -1,8 +1,9 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> result=new ArrayList<>();
+        List<Integer> ans=new ArrayList<>();
         Arrays.sort(nums);
-        subset(new ArrayList<>(), nums, 0,result);
+        subset(ans, nums, 0,result);
         return result;
     }
     public void subset(List<Integer> ans, int[] nums, int idx, List<List<Integer>> result){
