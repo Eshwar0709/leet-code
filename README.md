@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Eshwar0709/leet-code/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eshwar0709/leet-code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Eshwar0709/leet-code/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 ## Stack
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
