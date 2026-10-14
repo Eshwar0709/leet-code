@@ -12,14 +12,16 @@ class Solution {
             return;
         }
         for (int i = start; i < nums.length; i++) {
-            swap(nums, start, i);
+            
+            int temp=nums[i];
+            nums[i]=nums[start];
+            nums[start]=temp;
+
             helper(start + 1, nums, result);
-            swap(nums, start, i);
+
+            temp=nums[i];
+            nums[i]=nums[start];
+            nums[start]=temp;
         }
-    }
-    public void swap(int[] nums, int i, int j) {
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
