@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/Eshwar0709/leet-code/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Eshwar0709/leet-code/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
@@ -300,16 +304,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Eshwar0709/leet-code/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Eshwar0709/leet-code/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Eshwar0709/leet-code/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -414,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0022-generate-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
