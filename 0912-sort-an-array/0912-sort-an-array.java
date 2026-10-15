@@ -1,27 +1,32 @@
 class Solution {
-    public int[] sortArray(int[] nums) {
-        mergeSort(nums);
-        return nums;
-    }
-    public void mergeSort(int[] nums){
-        int n=nums.length;
-        if(n==1) return;
-        int[] a=new int[n/2];
-        int[] b=new int[n-n/2];
-        int idx=0;
-        for(int i=0;i<n/2;i++) a[i]=nums[idx++];
-        for(int i=0;i<n-n/2;i++) b[i]=nums[idx++];
-        mergeSort(a);
-        mergeSort(b);
-        merge(a, b, nums);
-    }
-    public void merge(int[] a, int[] b, int[] nums){
-        int i=0,j=0,k=0;
+    public static int[] merge(int[]a,int[]b){
+        int []c = new int[a.length+b.length];
+        int i = 0;
+        int j = 0;
+        int k = 0;
         while(i<a.length && j<b.length){
-            if(a[i]<=b[j]) nums[k++]=a[i++];
-            else nums[k++]=b[j++];
+            if(a[i]>b[j]) c[k++] = b[j++];
+            else c[k++] = a[i++];
         }
-        while(i<a.length) nums[k++]=a[i++];
-        while(j<b.length) nums[k++]=b[j++];
+        while(i<a.length) c[k++] = a[i++];
+        while(j<b.length) c[k++] = b[j++];
+        return c;
+    }
+    public static int[] MergeSort(int []nums,int start,int end){
+        int mid = (start+end)/2;
+        if(start>=end){
+            return new int[]{nums[start]};
+        }
+        int arr1[] = MergeSort(nums,start,mid);
+        int arr2[] = MergeSort(nums,mid+1,end);
+        return merge(arr1,arr2);
+    }
+    public int[] sortArray(int[] nums) {
+        int start = 0;
+        int end = nums.length-1;
+        if(nums.length==1){
+            return nums;
+        }
+        return MergeSort(nums,start,end);
     }
 }
