@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Eshwar0709/leet-code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Eshwar0709/leet-code/tree/master/0704-binary-search) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
@@ -428,21 +431,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0912-sort-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
