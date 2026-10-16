@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Eshwar0709/leet-code/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshwar0709/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Eshwar0709/leet-code/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Eshwar0709/leet-code/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Eshwar0709/leet-code/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Eshwar0709/leet-code/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Eshwar0709/leet-code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eshwar0709/leet-code/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
@@ -327,10 +331,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Eshwar0709/leet-code/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 ## Ternary Search
 |  |
 | ------- |
