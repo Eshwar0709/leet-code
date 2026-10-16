@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Eshwar0709/leet-code/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Eshwar0709/leet-code/tree/master/0436-find-right-interval) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Eshwar0709/leet-code/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Eshwar0709/leet-code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Eshwar0709/leet-code/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/Eshwar0709/leet-code/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/Eshwar0709/leet-code/tree/master/1122-relative-sort-array) |
