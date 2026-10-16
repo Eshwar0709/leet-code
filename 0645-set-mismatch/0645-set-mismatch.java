@@ -12,7 +12,7 @@ class Solution {
                 nums[idx]=temp;
             }
         }
-        for(i=0;i<nums.length;i++){
+        for(i=0;i<n;i++){
             if(nums[i]!=i+1){
                 result[0]=nums[i];
                 result[1]=i+1;
