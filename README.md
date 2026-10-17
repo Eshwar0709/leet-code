@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Eshwar0709/leet-code/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Eshwar0709/leet-code/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Eshwar0709/leet-code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Eshwar0709/leet-code/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Eshwar0709/leet-code/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Eshwar0709/leet-code/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [1006-clumsy-factorial](https://github.com/Eshwar0709/leet-code/tree/master/1006-clumsy-factorial) |
 ## Divide and Conquer
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Eshwar0709/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
