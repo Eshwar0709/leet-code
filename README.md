@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Eshwar0709/leet-code/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Eshwar0709/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Eshwar0709/leet-code/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Eshwar0709/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Eshwar0709/leet-code/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Eshwar0709/leet-code/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Eshwar0709/leet-code/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Eshwar0709/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Eshwar0709/leet-code/tree/master/0069-sqrtx) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0059-spiral-matrix-ii) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
