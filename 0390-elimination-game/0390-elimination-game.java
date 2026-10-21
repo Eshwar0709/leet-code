@@ -1,8 +1,17 @@
 class Solution {
     public int lastRemaining(int n) {
-        if (n == 1) {
-            return 1;
+        boolean startL=true;
+        int remain=n;
+        int step=1;
+        int head=1;
+        while(remain>1){
+            if(startL || remain%2==1){
+                head=head+step;
+            }
+            remain/=2;
+            step*=2;
+            startL=!startL;
         }
-        return 2 * (n / 2 + 1 - lastRemaining(n / 2));
+        return head;
     }
 }
