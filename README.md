@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Eshwar0709/leet-code/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Eshwar0709/leet-code/tree/master/0367-valid-perfect-square) |
+| [0390-elimination-game](https://github.com/Eshwar0709/leet-code/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Eshwar0709/leet-code/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Eshwar0709/leet-code/tree/master/0441-arranging-coins) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Eshwar0709/leet-code/tree/master/0273-integer-to-english-words) |
+| [0390-elimination-game](https://github.com/Eshwar0709/leet-code/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/Eshwar0709/leet-code/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
