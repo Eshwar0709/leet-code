@@ -8,8 +8,8 @@ class Solution {
             if(startL || remain%2==1){
                 head=head+step;
             }
-            remain/=2;
-            step*=2;
+            remain=remain/2;
+            step=step*2;
             startL=!startL;
         }
         return head;
