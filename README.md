@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Eshwar0709/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Eshwar0709/leet-code/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Eshwar0709/leet-code/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Eshwar0709/leet-code/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Eshwar0709/leet-code/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Eshwar0709/leet-code/tree/master/0179-largest-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Eshwar0709/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/Eshwar0709/leet-code/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Eshwar0709/leet-code/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Eshwar0709/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Eshwar0709/leet-code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Eshwar0709/leet-code/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Eshwar0709/leet-code/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Eshwar0709/leet-code/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Eshwar0709/leet-code/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/Eshwar0709/leet-code/tree/master/0867-transpose-matrix) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eshwar0709/leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eshwar0709/leet-code/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
