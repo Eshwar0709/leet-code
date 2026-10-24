@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Eshwar0709/leet-code/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Eshwar0709/leet-code/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Eshwar0709/leet-code/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Eshwar0709/leet-code/tree/master/0273-integer-to-english-words) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Eshwar0709/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Eshwar0709/leet-code/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Eshwar0709/leet-code/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Eshwar0709/leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Eshwar0709/leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Eshwar0709/leet-code/tree/master/0217-contains-duplicate) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eshwar0709/leet-code/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -497,4 +500,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Eshwar0709/leet-code/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Eshwar0709/leet-code/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
