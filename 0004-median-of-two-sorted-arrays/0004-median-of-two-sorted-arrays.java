@@ -1,27 +1,30 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        if (nums1.length > nums2.length) return findMedianSortedArrays(nums2, nums1);
-        int m = nums1.length, n = nums2.length, low = 0, high = m;
-        
-        while (low <= high) {
-            int i = (low + high) / 2;
-            int j = (m + n + 1) / 2 - i;
-            
-            int maxLeft1 = Integer.MIN_VALUE, minRight1 = Integer.MAX_VALUE;
-            int maxLeft2 = Integer.MIN_VALUE, minRight2 = Integer.MAX_VALUE;
-            
-            if (i > 0) maxLeft1 = nums1[i - 1];
-            if (i < m) minRight1 = nums1[i];
-            if (j > 0) maxLeft2 = nums2[j - 1];
-            if (j < n) minRight2 = nums2[j];
-            
-            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
-                if ((m + n) % 2 != 0) return Math.max(maxLeft1, maxLeft2);
-                return (Math.max(maxLeft1, maxLeft2) + Math.min(minRight1, minRight2)) / 2.0;
-            }
-            if (maxLeft1 > minRight2) high = i - 1;
-            else low = i + 1;
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
         }
-        return 0.0;
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int low = 0, high = n1;
+        while (low <= high) {
+            int cut1 = (low + high) / 2;
+            int cut2 = (n1 + n2 + 1) / 2 - cut1;
+            int left1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
+            int left2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
+            int right1 = (cut1 == n1) ? Integer.MAX_VALUE : nums1[cut1];
+            int right2 = (cut2 == n2) ? Integer.MAX_VALUE : nums2[cut2];
+            if (left1 <= right2 && left2 <= right1) {
+                if ((n1 + n2) % 2 == 0) {
+                    return (Math.max(left1, left2) + Math.min(right1, right2)) / 2.0;
+                } else {
+                    return Math.max(left1, left2);
+                }
+            } else if (left1 > right2) {
+                high = cut1 - 1;
+            } else {
+                low = cut1 + 1;
+            }
+        }
+        return 0.0; 
     }
 }
