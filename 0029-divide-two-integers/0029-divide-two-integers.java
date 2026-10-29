@@ -3,20 +3,21 @@ class Solution {
         if (dividend == Integer.MIN_VALUE && divisor == -1) {
             return Integer.MAX_VALUE;
         }
-        long a = Math.abs((long) dividend);
-        long b = Math.abs((long) divisor);
-        int res = 0;
+        if (divisor == 1) return dividend;
+        if (divisor == -1) return -dividend;
 
-        while (a >= b) {
-            long temp = b;
-            int multiple = 1;
-            while ((temp << 1) > 0 && a >= (temp << 1)) {
-                temp <<= 1;
-                multiple <<= 1;
+        boolean isNegative = (dividend < 0) ^ (divisor < 0);
+        long absDividend = Math.abs((long) dividend);
+        long absDivisor = Math.abs((long) divisor);
+        
+        int res = 0;
+        for (int i = 31; i >= 0; i--) {
+            if ((absDivisor << i) <= absDividend) {
+                absDividend -= (absDivisor << i);
+                res |= (1 << i);
             }
-            a -= temp;
-            res += multiple;
         }
-        return ((dividend < 0) ^ (divisor < 0)) ? -res : res;
+
+        return isNegative ? -res : res;
     }
 }
