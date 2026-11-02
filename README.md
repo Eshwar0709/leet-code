@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Eshwar0709/leet-code/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Eshwar0709/leet-code/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Eshwar0709/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Eshwar0709/leet-code/tree/master/0273-integer-to-english-words) |
 | [0367-valid-perfect-square](https://github.com/Eshwar0709/leet-code/tree/master/0367-valid-perfect-square) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Eshwar0709/leet-code/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Eshwar0709/leet-code/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Eshwar0709/leet-code/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Eshwar0709/leet-code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Eshwar0709/leet-code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Eshwar0709/leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Eshwar0709/leet-code/tree/master/0389-find-the-difference) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Eshwar0709/leet-code/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Eshwar0709/leet-code/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Eshwar0709/leet-code/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Eshwar0709/leet-code/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Eshwar0709/leet-code/tree/master/0273-integer-to-english-words) |
 | [0390-elimination-game](https://github.com/Eshwar0709/leet-code/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Eshwar0709/leet-code/tree/master/0394-decode-string) |
